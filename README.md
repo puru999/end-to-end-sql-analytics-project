@@ -1,4 +1,4 @@
-# End-to-End SQL Analytics Project
+![SQL Analytics Project Thumbnail](sql_analytics_thumbnail.pn.png)
 
 ## Project Overview
 

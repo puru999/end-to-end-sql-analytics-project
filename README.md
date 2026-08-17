@@ -1,4 +1,4 @@
-![SQL Analytics Project Thumbnail](sql_analytics_thumbnail.pn.png)
+![SQL Analytics Project Thumbnail](sql_analytics_thumbnail.png)
 
 ## Project Overview
 
